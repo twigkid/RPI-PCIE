@@ -1,0 +1,5 @@
+(31/10/24)
+
+Working: No
+Status: GPU Recognised and powering up with no video output
+Drivers: Linux AArch64, Driver Version: 550.120 - Release Date: 2024 September 19
